@@ -1,0 +1,12 @@
+[submodule "Platform"]
+	path = Platform
+	url = https://github.com/HeN1Project/Platform
+[submodule "Foundation"]
+	path = Foundation
+	url = https://github.com/HeN1Project/Foundation
+[submodule "Reflect"]
+	path = Reflect
+	url = https://github.com/HeN1Project/Reflect
+[submodule "Persist"]
+	path = Persist
+	url = https://github.com/HeN1Project/Persist
